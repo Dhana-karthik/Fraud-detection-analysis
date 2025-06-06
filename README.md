@@ -25,6 +25,28 @@ This repository discusses fraud detection analysis used to predict fake transact
 
 6. Used PR curve to find each model's behavior precision, recall, and f1 score are compared for each model.
 
+## Outcomes:
+### Confusion Matrices of random forest model:
+![image](https://github.com/user-attachments/assets/fe6dd920-0b1b-4edc-a4ae-887b92bbf3c8)
+![image](https://github.com/user-attachments/assets/d5bf57c6-5fda-4cff-bfd6-fb2bb77360b4)
+![image](https://github.com/user-attachments/assets/15566e22-b6bb-47ad-93e1-8d0370131bf9)
+
+### Confusion Matrices for logistic regression: 
+![image](https://github.com/user-attachments/assets/ed638378-298c-4f64-874b-4ee9ec9e7263)
+![image](https://github.com/user-attachments/assets/db8f0375-d268-42ab-8a18-8cbf6af08478)
+![image](https://github.com/user-attachments/assets/ee448cca-dea9-4d92-8981-929381231faf)
+
+### Confusion  Matrices for K-means: 
+![image](https://github.com/user-attachments/assets/24044f15-3de1-4544-b14c-5df5faab9b47)
+![image](https://github.com/user-attachments/assets/47506e81-c339-473d-84c9-52382eff12e0)
+![image](https://github.com/user-attachments/assets/ab903ade-5c6f-4cda-a6b0-0a941bfcf059)
+
+
+PR curves of all models :
+![image](https://github.com/user-attachments/assets/d7e02622-b911-4c7e-995d-3aedd7573354)
+![image](https://github.com/user-attachments/assets/711d05ee-1237-4251-9346-1fd4a8d520ce)
+![image](https://github.com/user-attachments/assets/0ab7e948-3caa-45f4-934f-a100402b4a33)
+
 
 
 
