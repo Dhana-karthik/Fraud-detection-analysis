@@ -42,7 +42,7 @@ This repository discusses fraud detection analysis used to predict fake transact
 ![image](https://github.com/user-attachments/assets/ab903ade-5c6f-4cda-a6b0-0a941bfcf059)
 
 
-PR curves of all models :
+### PR curves of all models :
 ![image](https://github.com/user-attachments/assets/d7e02622-b911-4c7e-995d-3aedd7573354)
 ![image](https://github.com/user-attachments/assets/711d05ee-1237-4251-9346-1fd4a8d520ce)
 ![image](https://github.com/user-attachments/assets/0ab7e948-3caa-45f4-934f-a100402b4a33)
