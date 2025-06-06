@@ -1,7 +1,7 @@
 # Fraud-detection-analysis
 
 ## Summary :
-This repository discusses fraud detection analysis used to predict fake transactions made to retail shops, utilizing their transaction history details. 
+This repository discusses fraud detection analysis used to predict fake transactions made to retail shops, utilizing their transaction history details. It finds out which combination of sampling and machine learning model is best for fraud detection by comparing their quality by PR curve comparision. 
 
 ## Project outcome:
 1. I have increased the accuracy of the genuine transaction by **47%** after sorting out the best model and data pre-processing. 
