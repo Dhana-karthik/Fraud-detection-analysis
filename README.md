@@ -3,13 +3,15 @@
 ## Summary :
 This repository discusses fraud detection analysis used to predict fake transactions made to retail shops, utilizing their transaction history details. It finds out which combination of sampling and machine learning model is best for fraud detection by comparing their quality by PR curve comparision. 
 
+## Code:
+Link: <a href="https://colab.research.google.com/drive/1bZxw0yEb1YehTRtqAcsRqO_zakK20jW3">fraud transaction analysis</a>
+
 ## Project outcome:
 1. I have increased the accuracy of the genuine transaction by **47%** after sorting out the best model and data pre-processing. 
 
 2. Analyzed, cleaned, and pre-processed for **41989** records of datasets, assessed using various combinations of samplings and machine learning models.
 
 3. Instead of using a single model used **3** unique models and sampling methods created **9** combinations to select the best combo.
-
 
 ## Steps followed:
 
